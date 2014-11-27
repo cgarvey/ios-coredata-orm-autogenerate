@@ -1,0 +1,14 @@
+# iOS Model/ORM Code Generation Utility		
+		
+# Lines starting with '#' are comments.		
+		
+# -		
+# SQL Field Name (used to derive model class property name also)	JSON field name	
+#----------	----------	
+		
+		
+first_name	firstName	string
+last_name	lastName	string
+autorhisation_level	autorhisationLevel	integer
+date_joined	dateJoined	date/time
+is_active	active	boolean
